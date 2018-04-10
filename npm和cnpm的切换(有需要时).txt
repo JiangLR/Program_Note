@@ -1,7 +1,0 @@
-**设置回原本的就可以了
-
-	npm config set registry http://registry.npmjs.org 
-**
-发布完成之后,如果还想回到之前的cnpm,使用下面的命令
-
-	npm config set registry https://registry.npm.taobao.org
